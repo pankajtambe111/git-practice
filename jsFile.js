@@ -4,4 +4,5 @@
       count++;
       document.getElementById("count").textContent = count;
       console.log(count);
+      alert(count);
     }
